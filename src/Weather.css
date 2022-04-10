@@ -31,7 +31,7 @@
   list-style: none;
 }
 
-.Weather img {
+.Weather canvas {
   display: inline-block;
   margin-top: 0%;
   margin-right: 10px;
