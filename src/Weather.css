@@ -36,10 +36,6 @@
   display: inline;
 }
 
-.Weather .iconbox {
-  right: 0;
-}
-
 .Weather .temperature {
   color: rgb(35, 35, 35);
   font-size: 64px;
